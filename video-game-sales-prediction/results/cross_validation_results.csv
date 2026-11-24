@@ -1,0 +1,4 @@
+Model,CV Mean MAE,CV Std MAE,CV Mean R2
+Linear Regression,0.5234,0.0059,0.1312
+Decision Tree,0.5611,0.0115,-0.3491
+Random Forest,0.5073,0.0123,0.0002

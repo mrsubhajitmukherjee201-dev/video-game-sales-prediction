@@ -1,0 +1,6 @@
+Model,Accuracy,Precision (High),Recall (High),F1 (High)
+Linear Regression,0.8536,0.3747,0.361,0.3677
+Decision Tree,0.8487,0.3641,0.3792,0.3715
+Random Forest,0.8533,0.3848,0.4078,0.396
+Decision Tree (Tuned),0.8567,0.3985,0.4234,0.4106
+Random Forest (Tuned),0.8641,0.4226,0.4182,0.4204
